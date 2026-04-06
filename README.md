@@ -4,9 +4,9 @@
 
 ### 📂 项目结构
 ```text
-├── main.py              # 核心分析脚本
-├── output/              # 可视化报表输出目录
-└── README.md            # 项目说明文档
+├── Douyin-Ecommerce-Insight.py        # 核心分析脚本
+├── output/                            # 可视化报表输出目录
+└── README.md                          # 项目说明文档
 
 
 ### 🛠️ 技术栈
